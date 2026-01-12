@@ -4,10 +4,12 @@ Minimalist CLI tool for converting Word documents (.docx) to PDF while preservin
 
 Runs on your machine, so no data is sent to any third party.
 
+Made with Google Antigravity
+
 ## Requirements
 
 - Python 3.7+
-- Microsoft Word installed (uses Word's native conversion engine for best quality)
+- Microsoft Word installed (the tool uses Word's native conversion engine for best quality)
 
 ## Installation
 
